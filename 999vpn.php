@@ -1,6 +1,6 @@
-1.6
+1.7
 999 VPN 
-Update 15-03-22 
+Update 18-03-22 
 รายการเซิฟเวอร์ 
 SG 20 SERVER
 TH-BM 5 SERVER
