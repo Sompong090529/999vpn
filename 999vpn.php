@@ -1,11 +1,11 @@
-1.9
+2.0
 999 VPN 
-Update 21-04-22 
+Update 28-04-22 
 รายการเซิฟเวอร์ 
 SG 30 SERVER
 TH-GAME 10 SERVER
 TH-CAT 10 SERVER
-TH-CSL 5 SERVER
+TH-CSL 10 SERVER
 TH-INET 10 SERVER
 TH-READY 10 SERVER
 📢โปรดอ่านรายละเอียดก่อนใช้งาน
