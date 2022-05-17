@@ -1,6 +1,6 @@
-2.1
+2.2
 999 VPN 
-Update 13-05-22 
+Update 17-05-22 
 รายการเซิฟเวอร์ 
 NETFIBER 2 SERVER
 SG 10 SERVER
