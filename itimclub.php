@@ -1,12 +1,13 @@
-2.3
+2.4
 ITIM CLUB 
-อัพดตไฟล์วันที่ 05-07-22
+อัพดตไฟล์วันที่ 10-07-22
 SERVER 
 SG 10 SERVER 
 TH-CAT 10 SERVER ใช้งานทั่วไป
 TH-CSL 10 SERVER ใช้งานทั่วไป
 TH-GAME 10 SERVER ใช้เล่นเกมส์ออนไลน์ 
-TH-READY 10 SERVER ใช้งานทั่วไป
+TH-READY 10 SERVER ใช้งานทั่วไป 
+VIP-CSL 2 SERVER ใช้งานทั่วไป+เล่นเกมส์
 VIP-SG 3 SERVER ใช้งานทั่วไป
 VIP-TH 3 SERVER ใช้งานทั่วไป
 VIP-GAME 4 SERVER ใช้เล่นเกมส์ออนไลน์ 
