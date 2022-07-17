@@ -1,7 +1,8 @@
-2.5
+2.6
 ITIM CLUB 
-อัพดตไฟล์วันที่ 12-07-22
+อัพดตไฟล์วันที่ 18-07-22
 SERVER 
+AUS 3 SERVER
 SG 10 SERVER 
 TH-CAT 10 SERVER ใช้งานทั่วไป
 TH-CSL 10 SERVER ใช้งานทั่วไป
