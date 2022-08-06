@@ -1,6 +1,6 @@
-2.9
+3.0
 ITIM CLUB 
-อัพดตไฟล์วันที่ 04-08-22
+อัพดตไฟล์วันที่ 06-08-22
 SERVER 
 AUS 5 SERVER ใช้งานทั่วไป
 SG 9 SERVER ใช้งานทั่วไป
@@ -9,7 +9,7 @@ TH-CSL 10 SERVER ใช้งานทั่วไป
 TH-GAME 10 SERVER ใช้เล่นเกมส์ออนไลน์ 
 TH-READY 15 SERVER ใช้งานทั่วไป 
 VIP-BM 3 SERVER ใช้งานทั่วไป
-VIP-CSL 3 SERVER ใช้งานทั่วไป+เล่นเกมส์ 
+VIP-GAMING 1 SEVER ใช้งานเล่นเกมส์ 
 VIP-CAT 3 SERVER ใช้งานทั่วไป
 VIP-SG 3 SERVER ใช้งานทั่วไป
 VIP-TH 3 SERVER ใช้งานทั่วไป
