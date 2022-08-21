@@ -1,9 +1,10 @@
-3.1
+3.2
 ITIM CLUB 
-อัพดตไฟล์วันที่ 17-08-22
+อัพดตไฟล์วันที่ 22-08-22
 SERVER 
-AUS 5 SERVER ใช้งานทั่วไป
-SG 9 SERVER ใช้งานทั่วไป
+AUS 5 SERVER ใช้งานทั่วไป 
+SG-CONTABO 10 SERVER ใช้งานทั่วไป
+SG-OVH 9 SERVER ใช้งานทั่วไป
 TH-CAT 15 SERVER ใช้งานทั่วไป
 TH-CSL 10 SERVER ใช้งานทั่วไป
 TH-GAME 10 SERVER ใช้เล่นเกมส์ออนไลน์ 
