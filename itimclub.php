@@ -1,6 +1,6 @@
-4.0
+4.1
 ITIM CLUB 
-อัพดตไฟล์วันที่ 15-10-22
+UPDATE FILE 26-10-22
 SERVER 
 CA 10 SERVER ใช้งานทั่วไป
 AUS 5 SERVER ใช้งานทั่วไป 
